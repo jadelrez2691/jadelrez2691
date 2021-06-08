@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jadelrez2691
-- 👀 I’m interested in Big Data and Finance
+- 👀 I’m interested in Big Data and AI
 - 🌱 I’m currently learning Machine Learning methods
 - 💞️ I’m looking to collaborate on impactful projects around covid-19
 - 📫 How to reach me linkedin/jadelrez
