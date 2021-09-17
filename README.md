@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadelrez2691
-- 👀 I’m interested in Big data analyics 
-- 🌱 I’m currently learning Machine Learning methods
+- 👀 I’m interested in Big data and AI applications 
+- 🌱 I’m currently learning Neural Networks (CNN /RNN)
 - 💞️ I’m looking to collaborate on impactful projects around covid-19
 - 📫 How to reach me linkedin/jadelrez
 
