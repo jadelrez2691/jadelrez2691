@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jadelrez2691
+- 👋 Hi, I’m @jadelrez2691, check out my awesome projects!
 - 👀 I’m interested in Big data and AI applications 
 - 🌱 I’m currently learning Neural Networks (CNN /RNN)
 - 💞️ I’m looking to collaborate on impactful projects around covid-19
